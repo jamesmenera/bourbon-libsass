@@ -1,7 +1,7 @@
 {
   "name": "bourbon-libsass",
   "description": "A simple and lightweight mixin library for libsass.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/_bourbon.sass",
   "license": "MIT",
   "ignore": [

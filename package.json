@@ -1,7 +1,7 @@
 {
-  "name": "bourbon",
-  "version": "4.0.2",
-  "description": "A simple and lightweight mixin library for Sass.",
+  "name": "bourbon-libsass",
+  "version": "1.0.0",
+  "description": "A simple and lightweight mixin library for libsass.",
   "keywords": [
     "css",
     "mixins",
@@ -14,13 +14,13 @@
   },
   "license": "MIT",
   "author": {
-    "name": "thoughtbot",
-    "url": "http://thoughtbot.com"
+    "name": "jamesmenera",
+    "url": "http://github.com/jamesmenera"
   },
-  "main": "dist/_bourbon.scss",
+  "main": "dist/_bourbon.sass",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thoughtbot/bourbon.git"
+    "url": "https://github.com/jamesmenera/bourbon-libsass.git"
   },
   "scripts": {
     "test": "echo \"No test specified\""

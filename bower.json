@@ -1,8 +1,8 @@
 {
-  "name": "bourbon",
-  "description": "A simple and lightweight mixin library for Sass.",
-  "version": "4.0.2",
-  "main": "dist/_bourbon.scss",
+  "name": "bourbon-libsass",
+  "description": "A simple and lightweight mixin library for libsass.",
+  "version": "1.0.0",
+  "main": "dist/_bourbon.sass",
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -30,6 +30,6 @@
   "homepage": "http://bourbon.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thoughtbot/bourbon.git"
+    "url": "https://github.com/jamesmenera/bourbon-libsass.git"
   }
 }

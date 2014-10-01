@@ -3,7 +3,7 @@
 [![Stack Overflow](http://img.shields.io/badge/stack%20overflow-bourbon-ae3dd2.svg?style=flat)](http://stackoverflow.com/questions/tagged/bourbon)
 
 ***
-## This is a fork of the bourbon.io meant to work in conjunction with libsass.
+## This is a fork of the bourbon.io project only meant to work in conjunction with libsass.
 
 ## A simple and lightweight mixin library for libsass.
 
